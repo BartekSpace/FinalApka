@@ -1,0 +1,76 @@
+
+: 
+Simmulations: 
+Ic: 14514.559057765546
+Oxidizer mass ussage: 10.159357478969715
+Fuel mass ussage: 1.3475668131100789
+Average Chamber Pressure: 13.060459477015845
+Average Isp: 140.91120875458031
+Average Vessel Pressure: 28.715865139652884
+
+Real Values: 
+Ic: 23408.599359945794
+Average Thrust: 1970.7577676889175
+Average Chamber Pressure: 16.400097487156767
+Average Vessel Pressure: 26.421225251203136
+
+: 
+Simmulations: 
+Ic: 21121.857447874572
+Oxidizer mass ussage: 10.192740122723581
+Fuel mass ussage: 1.3886732402135855
+Average Chamber Pressure: 16.32285479338754
+Average Isp: 177.64806444453333
+Average Vessel Pressure: 29.08785964408701
+
+Real Values: 
+Ic: 23408.599359945794
+Average Thrust: 1970.7577676889175
+Isp: 196.88099770176075
+Average Vessel Pressure: 26.421225251203136
+
+: 
+Simmulations: 
+Ic: 21121.857447874572
+Oxidizer mass ussage: 10.192740122723581
+Fuel mass ussage: 1.3886732402135855
+Average Chamber Pressure: 16.32285479338754
+Average Isp: 177.64806444453333
+Average Vessel Pressure: 29.08785964408701
+
+Real Values: 
+
+: 
+Simmulations: 
+Ic: 23542.083156537006
+Oxidizer mass ussage: 10.190893787927333
+Fuel mass ussage: 1.4403242721227105
+Average Chamber Pressure: 18.12116083439634
+Average Isp: 228.55281934408043
+Average Vessel Pressure: 31.84879987834216
+
+Real Values: 
+
+: 
+Simmulations: 
+Ic: 21121.857447874572
+Oxidizer mass ussage: 10.192740122723581
+Fuel mass ussage: 1.3886732402135855
+Average Chamber Pressure: 16.32285479338754
+Average Isp: 205.05662295883278
+Average Vessel Pressure: 29.08785964408701
+
+Real Values: 
+
+: 
+Simmulations: 
+Ic: 23542.083156537006
+Oxidizer mass ussage: 10.190893787927333
+Fuel mass ussage: 1.4403242721227105
+Average Chamber Pressure: 18.12116083439634
+Average Isp: 228.55281934408043
+Average Vessel Pressure: 31.84879987834216
+
+Real Values: 
+Ic: 23522.84761141201
+Average Thrust: 1800.0391242694877
